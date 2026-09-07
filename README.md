@@ -27,10 +27,11 @@ The objective is to contrast the public narrative with official quantitative evi
 | 2022 | 3.8% | 5.7% | 7.9% |
 | 2023 | 3.8% | 5.5% | 9.4% |
 
-<img src="https://github.com/georgepm31-lab/quebec-labor-immigration-analysis/raw/main/Graphic%201.png" alt="Evolution of the Unemployment Rate" width="100%">
 
 ---
-
+---
+<img src="https://github.com/georgepm31-lab/quebec-labor-immigration-analysis/raw/main/Graphic%201.png" alt="Evolution of the Unemployment Rate" width="100%">
+---
 ### 2. The Paradox of Absolute Volumes vs. Relative Rates
 Although recent immigrants show a higher unemployment percentage, **the vast majority of the absolute volume of unemployed individuals in Quebec comes from the Canadian-born population**, due to the sheer size of the baseline labor force:
 
