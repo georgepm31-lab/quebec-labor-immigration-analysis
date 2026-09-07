@@ -26,6 +26,7 @@ The objective is to contrast the public narrative with official quantitative evi
 | 2021 | 5.3% | 8.1% | 13.1% |
 | 2022 | 3.8% | 5.7% | 7.9% |
 | 2023 | 3.8% | 5.5% | 9.4% |
+
 ![Evolution of the Unemployment Rate by Immigration Status](Graphic%201.%20Evolution%20of%20the%20Unemployment%20Rate%20in%20Quebec%20by%20Immigration%20Status.png)
 
 ---
