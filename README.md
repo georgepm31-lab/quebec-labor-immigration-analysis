@@ -123,13 +123,3 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/quebec_labor_analysis.ipynb
 ```
-### requirements.txt file
-Create this file in the root directory:
-```text
-pandas>=2.0.0
-requests>=2.28.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-stats_can>=2.3.0
-jupyter>=1.0.0
-```
