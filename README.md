@@ -28,6 +28,7 @@ The objective is to contrast the public narrative with official quantitative evi
 | 2023 | 3.8% | 5.5% | 9.4% |
 
 <img src="Graphic 1.png" alt="Evolution of the Unemployment Rate" width="100%">
+
 ---
 
 ### 2. The Paradox of Absolute Volumes vs. Relative Rates
