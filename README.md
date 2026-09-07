@@ -121,5 +121,5 @@ pip install -r requirements.txt
 ```
 4. Run the notebook:
 ```bash
-jupyter notebook notebooks/quebec_labor_analysis.ipynb
+jupyter notebook Unemployment_in_Quebec_native_born_vs_immigrants.ipynb
 ```
