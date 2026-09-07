@@ -107,7 +107,7 @@ Analyzing consolidated MESS records between 2019 and 2023 reveals two diverging 
  ```bash
   git clone https://github.com/georgepm31-lab/quebec-labor-immigration-analysis.git
    cd quebec-labor-immigration-analysis
-   ```
+```
 
 2. Create and activate a virtual environment:
 ```bash
