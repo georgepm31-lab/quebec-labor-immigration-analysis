@@ -69,6 +69,7 @@ Analyzing consolidated MESS records between 2019 and 2023 reveals two diverging 
 | 2022 | 216,231 | 40,193 | 256,424 | 15.7% |
 | 2023 | 204,063 | 69,160 | 273,223 | 25.3% |
 
+
 ![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic4.png)
 
 ---
