@@ -27,7 +27,7 @@ The objective is to contrast the public narrative with official quantitative evi
 | 2022 | 3.8% | 5.7% | 7.9% |
 | 2023 | 3.8% | 5.5% | 9.4% |
 
-![Evolution of the Unemployment Rate](./Graphic%201.png)
+<img src="https://github.com/georgepm31-lab/quebec-labor-immigration-analysis/raw/main/Graphic%201.png" alt="Evolution of the Unemployment Rate" width="100%">
 
 ---
 
