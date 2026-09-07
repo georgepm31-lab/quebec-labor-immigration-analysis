@@ -50,7 +50,12 @@ Although recent immigrants show a higher unemployment percentage, **the vast maj
 
 ![Distribution of Employment Insurance Beneficiaries in Quebec](graphic3.png)
 
+![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic4.png)
+
+![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic5.png)
+
 *Analytical Impact:* This breakdown confirms that the volume of regular benefit claimants aligns directly with native workforce participation rather than external inflows.
+
 
 ---
 
@@ -70,9 +75,7 @@ Analyzing consolidated MESS records between 2019 and 2023 reveals two diverging 
 | 2023 | 204,063 | 69,160 | 273,223 | 25.3% |
 
 
-![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic4.png)
 
-![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic5.png)
 
 ![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic6.png)
 ---
