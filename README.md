@@ -27,7 +27,7 @@ The objective is to contrast the public narrative with official quantitative evi
 | 2022 | 3.8% | 5.7% | 7.9% |
 | 2023 | 3.8% | 5.5% | 9.4% |
 
-![Evolution of the Unemployment Rate](graphic1.png)
+![Evolution of the Unemployment Rate](graphic1)
 
 ---
 
