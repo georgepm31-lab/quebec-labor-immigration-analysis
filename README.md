@@ -37,6 +37,8 @@ Although recent immigrants show a higher unemployment percentage, **the vast maj
 * In 2023, there were **138,400 Canadian-born individuals** seeking employment compared to **59,300 established immigrants**.
 * In 2024, the number of unemployed Canadian-born individuals increased to **155,600**, while the immigrant group accounted for **73,600**.
 
+![Unemployed Persons in Quebec: Canadian-born vs. Immigrants](graphic2.png)
+
 > **Analytical Impact:** Evaluating labor market pressure solely through percentage rates creates a visual distortion; social support and placement services primarily serve the local population.
 
 ---
