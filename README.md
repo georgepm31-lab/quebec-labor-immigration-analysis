@@ -73,6 +73,8 @@ Analyzing consolidated MESS records between 2019 and 2023 reveals two diverging 
 ![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic4.png)
 
 ![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic5.png)
+
+![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic6.png)
 ---
 
 ## Data Sources and Methodology
