@@ -50,7 +50,7 @@ Although recent immigrants show a higher unemployment percentage, **the vast maj
 
 ![Distribution of Employment Insurance Beneficiaries in Quebec](graphic3.png)
 
-*Analytical Impact:* This breakdown confirms that the volume of regular benefit claimants aligns directly with native workforce participation rather than external inflows...
+*Analytical Impact:* This breakdown confirms that the volume of regular benefit claimants aligns directly with native workforce participation rather than external inflows.
 
 ---
 
