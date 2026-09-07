@@ -48,6 +48,10 @@ Although recent immigrants show a higher unemployment percentage, **the vast maj
 * **Temporal Trend:** The average monthly number of beneficiaries peaked in 2021 (**82,050 individuals**) due to pandemic operational restrictions, before declining and stabilizing at **27,679 in 2023** and **30,475 in 2024**, during a period characterized by record immigration arrivals.
 * **Estimated Distribution:** Approximately **70% of regular benefits** are received by Canadian-born individuals, directly corresponding to their demographic weight and payroll contributions.
 
+![Distribution of Employment Insurance Beneficiaries in Quebec](graphic3.png)
+
+*Analytical Impact:* This breakdown confirms that the volume of regular benefit claimants aligns directly with native workforce participation rather than external inflows...
+
 ---
 
 ### 4. Provincial Social Assistance (*Bien-être social*): Exogenous Shock vs. Local Decline
