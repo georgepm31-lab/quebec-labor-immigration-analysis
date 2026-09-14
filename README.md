@@ -92,6 +92,22 @@ Analyzing consolidated MESS records between 2019 and 2023 reveals two diverging 
 
 ---
 
+## Repository Architecture
+
+```text
+├── notebooks/
+│   └── Unemployment_in_Quebec_native_born_vs_immigrants.ipynb  # Main analytical notebook
+├── figures/
+│   ├── graphic1.png                                            # Demographic employment gaps
+│   ├── graphic2.png                                            # Unemployment by status
+│   ├── graphic3.png                                            # Social assistance trends
+│   ├── graphic4.png                                            # Regular EI beneficiaries
+│   ├── graphic5.png                                            # Integration timeline
+│   └── graphic6.png                                            # Asylum seekers vs General
+├── README.md                                                   # Project documentation
+└── requirements.txt                                            # Python dependencies
+```
+
 ## Tech Stack
 
 * **Python 3.10+**
