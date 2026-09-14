@@ -27,7 +27,7 @@ The objective is to contrast the public narrative with official quantitative evi
 | 2022 | 3.8% | 5.7% | 7.9% |
 | 2023 | 3.8% | 5.5% | 9.4% |
 
-![Evolution of the Unemployment Rate](graphic1.png)
+![Evolution of the Unemployment Rate](figures/graphic1.png)
 
 ---
 
@@ -37,7 +37,7 @@ Although recent immigrants show a higher unemployment percentage, **the vast maj
 * In 2023, there were **138,400 Canadian-born individuals** seeking employment compared to **59,300 established immigrants**.
 * In 2024, the number of unemployed Canadian-born individuals increased to **155,600**, while the immigrant group accounted for **73,600**.
 
-![Unemployed Persons in Quebec: Canadian-born vs. Immigrants](graphic2.png)
+![Unemployed Persons in Quebec: Canadian-born vs. Immigrants](figures/graphic2.png)
 
 > **Analytical Impact:** Evaluating labor market pressure solely through percentage rates creates a visual distortion; social support and placement services primarily serve the local population.
 
@@ -48,11 +48,11 @@ Although recent immigrants show a higher unemployment percentage, **the vast maj
 * **Temporal Trend:** The average monthly number of beneficiaries peaked in 2021 (**82,050 individuals**) due to pandemic operational restrictions, before declining and stabilizing at **27,679 in 2023** and **30,475 in 2024**, during a period characterized by record immigration arrivals.
 * **Estimated Distribution:** Approximately **70% of regular benefits** are received by Canadian-born individuals, directly corresponding to their demographic weight and payroll contributions.
 
-![Distribution of Employment Insurance Beneficiaries in Quebec](graphic3.png)
+![Distribution of Employment Insurance Beneficiaries in Quebec](figures/graphic3.png)
 
-![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic4.png)
+![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](figures/graphic4.png)
 
-![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](graphic5.png)
+![Social Assistance Beneficiaries in Quebec: General Population vs. Asylum Seekers](figures/graphic5.png)
 
 *Analytical Impact:* This breakdown confirms that the volume of regular benefit claimants aligns directly with native workforce participation rather than external inflows.
 
